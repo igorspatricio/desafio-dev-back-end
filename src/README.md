@@ -2,7 +2,7 @@
 ## Foi usado:
 - javaScript
 - nodeJs
-- Postegres
+- Postgres
 ## frameworks
 - cors
 - express
